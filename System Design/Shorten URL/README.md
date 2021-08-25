@@ -1,4 +1,7 @@
-**Problem:** Design a service like TinyURL, a URL shortening service, a web service that provides short aliases for redirection of long URLs. [문제](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
+### Problem 
+
+Design a service like TinyURL, a URL shortening service, a web service that provides short aliases for redirection of long URLs. 
+[문제](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
 
 ### Answer
 
